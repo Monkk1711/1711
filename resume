@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css.css" />
+    <title>My Resume</title>
+</head>
+<body>
+    <div id="bgphoto">
+    <h1 align='center'>
+        RESUME
+    </h1>
+    <div class="resume_profile">
+        <img src="C:\Users\student.DESKTOP-N872A1D\Desktop\OIP.jfif"
+         alt="profile_pic" align='right'
+        height="150" width="150">
+    </div>
+    <h2>Mohith</br>Web Developer</br></h2>
+    <p>
+    <ul style="list-style-type:disc;">
+        <li>🏡Address : #373, Sri Pushpagiri Nilaya,Rajankunte-560064</li>
+        <li>📞Mobile Number :8431791053</li>
+        <li>📧E-mail : lmohith763@gmail.com</li>
+       
+    </ul>
+
+    <hr />
+    </p>
+    <h2>Educational Qualifications</h2>
+    <table border="5" align="center" width="70%">
+        <tr>
+            <th>Sl.NO</th>
+            <th>Degree</th>
+            <th>Institute</th>
+            <th>Year</th>
+            <th>Percentage</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>SSlC</td>
+            <td>MEC Public School</td>
+            <td>2019</td>
+          <td><a href="https://drive.google.com/file/d/1vpdS8fVOKTcMmyMljryueC3FUHPyS_-z/view?usp=sharing">89</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>PUC</td>
+            <td>CMR PU College</td>
+            <td>2021</td>
+            <td><a href="https://drive.google.com/file/d/1S-eUaPPszXOX4PSClllZvbx_ntNeGFFN/view?usp=sharing">89</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Btech</td>
+            <td>Presidency University</td>
+            <td>2025</td>
+            <td><a href="https://pasteboard.co/i6uNh19PftLU.jpg">7.6</a></td>
+        </tr>
+    </table>
+    <h2>Certifications</h2>
+    <ul style="list-style-type: disc;">
+        <li><b><a href="https://drive.google.com/file/d/1PKdaPQsfMcgFVU18BvV_VeSDzHW3CKcD/view?usp=sharing">Computer_Hardware_Basics_Badge</a></b></br>course:- online-CISCO WEB</a></li>
+        <li><b><a href="https://drive.google.com/file/d/12f2WJbiMJz2wY1l4Gu55Ep2wScCY8Q4A/view?usp=sharing">LinkedIn Learning Certificate</a></b></br>course:- online-LINKEDIN LEARNING</li>
+        <li><b><a href="https://drive.google.com/file/d/12iYdtLiRvHadQIBYpsPUWfI05UQQbtRp/view?usp=sharing">Project Management Institute (PMI)®</a></b></br>course:- online-LINKEDIN LEARNING</a></li>
+    </ul>
+    <h2>Co-Curricular Activities</h2>
+    <h3><a href="C:\Users\Admin\Downloads\ngo.jpg.jfiff">Volunteer</a></h3>
+    <script>
+
+    </script>
+    
+</body>
+<footer>
+  <p align='right'>Date:02/02/2024<br/>Place:Bengaluru</p><p><img src="C:\Users\student.DESKTOP-N872A1D\Desktop\sign.jfif" align="right" height="150" width="150">
+  <p>Click ⤵️ to mail</p>
+  <p><a href="mailto:lmohith763@gmail.com">lmohith763@gmail.com</a></p>
+</footer>
+</div>
+</html>
